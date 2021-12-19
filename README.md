@@ -5,3 +5,8 @@ This repository contains a number of Python data analyis playbooks using a combi
 * [Pandas date and time playbook](https://github.com/malminhas/data-analytics/blob/main/pandas-dates-and-times-playbook.ipynb)
 * [Polars playbook](https://github.com/malminhas/data-analytics/blob/main/polars-playbook.ipynb)
  
+## Installation
+Install as follows:
+
+`$ pip install -r requirements.txt`
+
